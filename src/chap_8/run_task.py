@@ -1,4 +1,4 @@
-qa  import argparse, time, uuid, json
+import argparse, time, uuid, json
 import boto3
 from colorama import init, Fore, Back, Style
 init(autoreset=True)
